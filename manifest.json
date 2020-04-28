@@ -1,7 +1,7 @@
 {
   "name": "Piazza Controller",
   "description": "Allows the user to control what kind of replies to see on Piazza",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "permissions": [
     "tabs", "http://piazza.com/*", "https://piazza.com/*"
   ],
